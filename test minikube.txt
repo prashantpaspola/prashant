@@ -1,0 +1,5 @@
+ minikube start
+ kubectl cluster-info
+ kubectl run hello-minikube --image=gcr.io/google_containers/echoserver:1.4 --port=8080
+ kubectl get services
+ minikube dashboard
