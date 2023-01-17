@@ -1,0 +1,3 @@
+cloned the git repo
+Made a dockerfile for contarnised application
+provided cli commands to make minikube cluster on ubantu system which include , installing hypervisor , installing minikube , installing kubectl and then testing the cluster.
