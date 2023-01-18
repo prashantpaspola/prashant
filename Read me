@@ -1,3 +1,4 @@
 cloned the git repo
 Made a dockerfile for contarnised application
 provided cli commands to make minikube cluster on ubantu system which include , installing hypervisor , installing minikube , installing kubectl and then testing the cluster.
+provided  yaml file for deploying a app and service file for exposing the node port service at a port number.
